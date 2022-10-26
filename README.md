@@ -15,3 +15,6 @@ Faça um fork deste repositorio e realize as seguintes atividades:
 
 - [ ] Implemente a função insereArvore que deve inserir um elemento na arvore usando recursividade
 - [ ] Implemente a função exibirElementosArvore que deve mostrar os elementos na arvore usando recursividade
+
+###Bruno da Silva Santos
+###bruno.santos313@fatec.sp.gov.br
